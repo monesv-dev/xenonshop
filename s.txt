@@ -1,1 +1,0 @@
-"F:\Program Files (x86)\AlbionOnline\game\.\Albion-Online.exe" \"-screen-fullscreen 1\" -screen-width 1024 -screen-height 768 +lang EN-US +server loginserver.live.albion.zone:5055
